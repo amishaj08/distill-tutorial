@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website.",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-06-26T21:23:57-05:00"
+      "contents": "\nAbout Me\nMy name is Amisha Jain. I am 16 years old. I am a\njunior at Metea Valley High School. Some facts about me are I am a black\nbelt in karate and I love to read!\nAbout the Project\nTitle: Fuel Efficiency and Weight\nDescription: My project, Fuel Efficiency and\nWeight, involves a plot of how certain cars are different amounts\nof fuel efficient.\nGoals\nLook at MPG of cars\nThe data might show inaccurate MPG\n\nLook at weight of each car\n“This is data science”\n\nPreceptor\n\nKane’s Free High School\nData Science Bootcamp\n\n\n\n",
+      "last_modified": "2022-06-26T21:44:30-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-06-26T21:24:02-05:00"
+      "last_modified": "2022-06-26T21:44:35-05:00"
     }
   ],
   "collections": []

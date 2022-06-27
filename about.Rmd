@@ -8,3 +8,24 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+My name is **Amisha Jain**. I am 16 years old.
+I am a junior at Metea Valley High School.
+Some facts about me are I am a black belt in karate and I love to read!
+
+## About the Project
+**Title:** Fuel Efficiency and Weight
+**Description:** My project, *Fuel Efficiency and Weight*, involves a plot of 
+how certain cars are different amounts of fuel efficient.
+
+### Goals
+* Look at MPG of cars
+  + The data might show inaccurate MPG
+* Look at weight of each car
+
+
+"This is data science"   
+  ~ Preceptor
+
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
+
